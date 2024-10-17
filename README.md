@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+
+# I am currently studying at Renmin University of China
 
 <!--
 **CaPta1nFan/CaPta1nFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
